@@ -1,7 +1,7 @@
 # [Ricardo Gil Personal Web Application ](https://github.com/gilricardo-com/personal-website/index)
 
 
-**[Ricardo Gil Personal Web Application ](https://github.com/gilricardo-com/personal-website/index)** is a responsive Bootstrap 4 kit provided for free by Invision and Creative Tim and modified by Ricardo Gil.
+**[Ricardo Gil Personal Web Application ](https://github.com/gilricardo-com/personal-website/index)** is a responsive Bootstrap 4 kit provided for free by Invision and Creative Tim and modified/adapted by Ricardo Gil.
 
 **Bootstrap 4 Support**
 This web application is built on top of the much awaited Bootstrap 4. This makes starting a new project very simple. It also provides benefits if you are already working on a Bootstrap 4 project; you can just import the Now UI Kit style over it. Most of the elements have been redesigned; but if you are using an element we have not touched, it will fall back to the Bootstrap default.
@@ -126,28 +126,3 @@ Now Ui Kit Angular
 ├── tsconfig.json
 └── tslint.json
 ```
-
-## Useful Links
-
-More products from Creative Tim: <http://www.creative-tim.com/bootstrap-themes>
-
-Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
-
-Freebies: <http://www.creative-tim.com/products>
-
-Affiliate Program (earn money): <http://www.creative-tim.com/affiliates/new>
-
-Social Media:
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
-
-[CHANGELOG]: ./CHANGELOG.md
-[version-badge]: https://img.shields.io/badge/version-1.2.0-blue.svg
