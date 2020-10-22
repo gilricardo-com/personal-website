@@ -4,7 +4,7 @@
 **[Ricardo Gil Personal Web Application ](https://github.com/gilricardo-com/personal-website/index)** is a responsive Bootstrap 4 kit provided for free by Invision and Creative Tim and modified/adapted by Ricardo Gil.
 
 **Bootstrap 4 Support**
-This web application is built on top of the much awaited Bootstrap 4. This makes starting a new project very simple. It also provides benefits if you are already working on a Bootstrap 4 project; you can just import the Now UI Kit style over it. Most of the elements have been redesigned; but if you are using an element we have not touched, it will fall back to the Bootstrap default.
+This web application is built on top of the much awaited Bootstrap 4. This makes starting a new project very simple. It also provides benefits if you are already working on a Bootstrap 4 project.
 
 ## Terminal Commands
 
@@ -20,7 +20,7 @@ This web application is built on top of the much awaited Bootstrap 4. This makes
 Within the download you'll find the following directories and files:
 
 ```
-Now Ui Kit Angular
+Personal Web Application Angular
 ├── CHANGELOG.md
 ├── README.md
 ├── angular.json
