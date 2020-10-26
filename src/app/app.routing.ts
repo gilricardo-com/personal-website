@@ -8,11 +8,12 @@ import { LandingComponent } from './examples/landing/landing.component';
 import { LoginComponent } from './examples/login/login.component';
 import { ProfileComponent } from './examples/profile/profile.component';
 import { NucleoiconsComponent } from './components/nucleoicons/nucleoicons.component';
+import { AboutMeComponent } from './sections/about-me/about-me.component'
 
 const routes: Routes =[
     { path: '', redirectTo: 'home', pathMatch: 'full' },
-    { path: 'home',                component: ComponentsComponent },
-    { path: 'nucleoicons',          component: NucleoiconsComponent },
+    { path: 'home',                 component: ComponentsComponent },
+    { path: 'sections/aboutme',     component: AboutMeComponent },
     { path: 'examples/landing',     component: LandingComponent },
     { path: 'examples/login',       component: LoginComponent },
     { path: 'examples/profile',     component: ProfileComponent }
