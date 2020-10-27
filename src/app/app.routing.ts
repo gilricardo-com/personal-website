@@ -4,16 +4,14 @@ import { BrowserModule  } from '@angular/platform-browser';
 import { Routes, RouterModule } from '@angular/router';
 
 import { ComponentsComponent } from './components/components.component';
-import { LandingComponent } from './examples/landing/landing.component';
-import { LoginComponent } from './examples/login/login.component';
-import { ProfileComponent } from './examples/profile/profile.component';
-import { NucleoiconsComponent } from './components/nucleoicons/nucleoicons.component';
+import { ErrorComponent } from './sections/error-page/error/error.component'
 import { AboutMeComponent } from './sections/about-me/about-me.component'
 
 const routes: Routes =[
     { path: '', redirectTo: 'home', pathMatch: 'full' },
     { path: 'home',                 component: ComponentsComponent },
-    { path: 'sections/aboutme',     component: AboutMeComponent }
+    { path: 'sections/aboutme',     component: AboutMeComponent },
+    { path: '**', component: ErrorComponent}
 ];
 
 @NgModule({
